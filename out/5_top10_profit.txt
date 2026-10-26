@@ -1,4 +1,4 @@
-Top 10 phim có doanh thu cao nhất:
+Top 10 movies by profit (revenue - budget):
 2544505847	Avatar
 1868178225	Star Wars: The Force Awakens
 1645034188	Titanic

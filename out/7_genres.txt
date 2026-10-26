@@ -1,4 +1,4 @@
-Số lượng phim sắp xếp theo thể loại:
+Number of movies per genre:
    4761 Drama
    3793 Comedy
    2908 Thriller

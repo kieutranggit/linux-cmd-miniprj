@@ -1,2 +1,2 @@
-Tổng doanh thu của các bộ phim là:
+Total revenue of all movies:
 432720192875

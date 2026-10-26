@@ -1,9 +1,9 @@
-Doanh thu cao nhất:
+Highest revenue:
 2781505847	Avatar
 
-Số phim không có dữ liệu doanh thu:
+Number of movies without revenue data (revenue = 0):
 6016
 
-Doanh thu thấp nhất sau khi bỏ những những phim thiếu giá trị dữ liệu:
+Lowest revenue after removing the movies without revenue data:
 2	Shattered Glass
 2	Mallrats
